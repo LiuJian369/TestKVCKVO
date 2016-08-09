@@ -10,4 +10,5 @@
 
 @interface hello : NSObject
 
+@property (nonatomic,copy) NSString * numberOne;
 @end
